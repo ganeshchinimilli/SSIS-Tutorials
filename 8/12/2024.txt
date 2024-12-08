@@ -1,0 +1,16 @@
+SSIS -- server side integration services
+it is based on the ETL --exteact,transform and load
+used in the data ware Housing projects
+TOpics Covered are 
+
+--Import File into the Table --
+using the flatfile source and teh sql server
+--Transformation of dataflows
+--types are .deriverd columns,data conversion ,copy column,characeter Map,sort,multicast,conditional split merge,unionAll,Merge Join
+-Control Flow Tasks are 
+Execute SQl Task.,Execute Process Task,File Process task,Procedence Constraints--
+--Variable and Expressions 
+---To Create  avriable We can click onthe right click on the environment
+
+--FOr ,forEach Loop contrianers
+ 
